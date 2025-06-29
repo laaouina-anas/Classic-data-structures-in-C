@@ -347,4 +347,3 @@ void ll_test_all()
 	ll_test_insert();
 	ll_test_remove();
 }
-
